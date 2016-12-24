@@ -29,7 +29,8 @@ limitations under the License.
 .mx_RoomSubList_label {
     position: relative;
     text-transform: uppercase;
-    color: #3d3b39;
+    background-color: #3d3b39;
+    color: orange;
     font-weight: 600;
     font-size: 12px;
     width: 203px; /* padding + width = LHS Panel width */
@@ -39,7 +40,6 @@ limitations under the License.
     padding-top: 6px;
     padding-bottom: 6px;
     cursor: pointer;
-    background-color: #d3efe1;
     border-top: solid 2px #eaf5f0;
 }
 
