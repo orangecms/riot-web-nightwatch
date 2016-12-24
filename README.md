@@ -4,6 +4,14 @@ Riot
 Riot (formerly known as Vector) is a Matrix web client built using the Matrix
 React SDK (https://github.com/matrix-org/matrix-react-sdk).
 
+About this fork
+===============
+
+I feel more comfortable with dark colors. This is an attempt to create a dark
+theme and maybe even build a theme switch into the core app.
+
+Screenshot: ![Riot Nightwatch Screenshot](screenshot.png)
+
 Getting Started
 ===============
 
