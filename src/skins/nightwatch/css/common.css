@@ -51,7 +51,7 @@ h2 {
 a:hover,
 a:link,
 a:visited {
-    color: #202020;
+    color: #C0F0F0;
 }
 
 input[type=text].error, input[type=password].error {
