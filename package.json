@@ -137,7 +137,7 @@
     "category": "Network",
     "electronVersion": "1.4.11",
     "//asar=false": "https://github.com/electron-userland/electron-builder/issues/675",
-    "asar": false,
+    "asar": true,
     "dereference": true,
     "//files": "We bundle everything, so we only need to include webapp/",
     "files": [
@@ -147,7 +147,7 @@
       "package.json"
     ],
     "linux": {
-      "target": "deb",
+      "target": "tar.gz",
       "maintainer": "support@riot.im"
     },
     "win": {
