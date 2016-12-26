@@ -1,6 +1,6 @@
 {
   "name": "riot-web",
-  "productName": "Riot",
+  "productName": "Riot Nightwatch",
   "main": "electron/src/electron-main.js",
   "version": "0.9.5",
   "description": "A feature-rich client for Matrix.org",
